@@ -1,10 +1,12 @@
 import Banner from "./Components/Banner";
-import Home from "./Pages/Home";
+import Footer from "./Components/Footer";
+import MainContent from "./Components/MainContent";
 function App() {
   return (
     <>
       <Banner />
-      <Home />
+      <MainContent />
+      <Footer />
     </>
   );
 }
