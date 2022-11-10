@@ -4,7 +4,7 @@ function MainContent() {
   return (
     <>
       <Navbar />
-      <div className="w-full text-center">MainContent</div>
+      <section className="w-full text-center">MainContent</section>
     </>
   );
 }

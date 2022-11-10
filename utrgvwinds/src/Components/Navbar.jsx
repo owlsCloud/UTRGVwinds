@@ -2,9 +2,9 @@ import React from "react";
 
 function Navbar() {
   return (
-    <div className="w-full ">
-      <ul className="flex justify-between gap-2">
-        <li className="text-utrgvOrange text-sm">
+    <div className="w-full">
+      <ul className="flex justify-between">
+        <li className="text-utrgvOrange text-sm ">
           <a href="#a">Home</a>
         </li>
         <li className="text-utrgvOrange text-sm">
